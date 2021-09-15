@@ -6,9 +6,6 @@ I'm Abdallah Hamoury from Jordan, and I do content on Design and Development . I
 Skills: REACT / JS / HTML / CSS
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallahhamoury&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true"/>
-
-
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
@@ -19,4 +16,4 @@ Skills: REACT / JS / HTML / CSS
 </a>
 
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+
