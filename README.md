@@ -15,7 +15,7 @@ I'm Abdallah Hamoury from Jordan, and I do content on Design and Development . I
 
 
 
-BEST REGARDS FROM NOW ON
+BEST REGARDS FROM NOW ON...
 
 **Abdallah Hamoury**
 
