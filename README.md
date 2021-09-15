@@ -1,7 +1,7 @@
 ### Hi there 👋,Abdallah Hamoury
 #### Development and Marketing
 I'm Abdallah Hamoury from Jordan, and I do content on Design and Development . I really enjoy learning languages and framework like React and React Native , I also enjoy wireframing , UI , UX , and design . With a strong marketing background and a master's degree in marketing.
-![AbdallahHamoury](https://octodex.github.com/images/yaktocat.png)
+![AbdallahHamoury](https://github.com/abdallahhamoury/abdallahhamoury/blob/main/Blue%20and%20Purple%20Casual%20Corporate%20App%20Development%20Startup%20Banner%20Landscape.png?raw=true)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallahhamoury&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
