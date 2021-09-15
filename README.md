@@ -1,4 +1,4 @@
-### Hi there 👋,Abdallah Hamoury
+### Hi there 👋
 #### Development and Marketing
 I'm Abdallah Hamoury from Jordan, and I do content on Design and Development . I really enjoy learning languages and framework like React and React Native , I also enjoy wireframing , UI , UX , and design . With a strong marketing background and a master's degree in marketing.
 
