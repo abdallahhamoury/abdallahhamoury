@@ -15,7 +15,7 @@ I'm Abdallah Hamoury from Jordan, and I do content on Design and Development . I
 
 
 
-
+BEST REGARDS FROM NOW ON
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>](https://github.com/abdallahhamoury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>](https://www.linkedin.com/in/abdallahhamoury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='10'>](https://twitter.com/abdallahhamoury)
 
 
